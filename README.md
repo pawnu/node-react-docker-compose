@@ -1,5 +1,7 @@
 # Node + Create React App + Docker Compose
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/pawnu/node-react-docker-compose/depshield.svg)](https://depshield.github.io)
+
 A project that runs a Node server and a create-react-app app via two separate containers, using Docker Compose.
 
 ## Development
